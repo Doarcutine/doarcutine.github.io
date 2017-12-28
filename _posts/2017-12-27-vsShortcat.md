@@ -18,3 +18,4 @@ description: VS常用快捷键
 9. ctrl+alt+c ： 打开call stack
 10. ctrl+F12 ： 查找文件中的函数
 11. ctrl+T,D ：debug
+12. alt->D->P ： attach to process
