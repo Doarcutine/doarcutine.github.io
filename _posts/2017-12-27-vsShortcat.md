@@ -12,6 +12,7 @@ description: VS常用快捷键
 1. ctrl+N : 查找文件
 2. ctrl+F12 ： 查找文件中的函数
 3. shift+delete ： 删除一行
+4. ctrl+shift+G ： 查找菜单
 
 #### 显示
 1. ctrl+P ： 显示函数的每个参数提示
@@ -33,6 +34,6 @@ description: VS常用快捷键
 1. ctrl+alt+L ： 格式化选中区域
 2. ctrl+alt+n ： 代码inline
 3. F2 ： 重命名
-4. ctrl+shift+r ： 移动到新文件
+4. ctrl+shift+r ： 重构菜单
 5. alt+enter ： 去掉无用代码（例如没有用到的引用）
 6. ctrl+alt+M ： 重构所选区域代码（例如抽成一个函数）
