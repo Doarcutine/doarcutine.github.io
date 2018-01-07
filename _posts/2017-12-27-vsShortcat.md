@@ -20,6 +20,9 @@ description: VS常用快捷键
 3. Alt+F7 ： 上个逻辑上的调用函数（不一定是当前实际调用的上一个函数，比如测试调用当前函数）
 4. ctrl+alt+c ： 打开call stack
 5. alt+shift+L ： 解决方案定位文件
+6. Ctrl + M + O: 折叠所有方法
+7. Ctrl + M + M: 折叠或者展开当前方法
+8. Ctrl + M + L:  展开所有方法
 
 
 #### 调试
