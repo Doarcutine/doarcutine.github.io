@@ -5,7 +5,7 @@ category: blog
 description: VS常用快捷键
 ---
 
-### __VS常用快捷键__
+### __Resharper常用快捷键__
 
 
 #### 编辑
@@ -13,6 +13,7 @@ description: VS常用快捷键
 2. ctrl+F12 ： 查找文件中的函数
 3. shift+delete ： 删除一行
 4. ctrl+shift+G ： 查找菜单
+5. ctrl+alt+b ： 打开所有实现
 
 #### 显示
 1. ctrl+P ： 显示函数的每个参数提示
