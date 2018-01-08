@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      VS常用快捷键
+title:      Resharper常用快捷键
 category: blog
-description: VS常用快捷键
+description: Resharper常用快捷键
 ---
 
 ### __Resharper常用快捷键__
