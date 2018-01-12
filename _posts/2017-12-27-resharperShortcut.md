@@ -14,6 +14,9 @@ description: Resharper常用快捷键
 3. shift+delete ： 删除一行
 4. ctrl+shift+G ： 查找菜单
 5. ctrl+alt+b ： 打开所有实现
+6. F8 ： 下一个错误
+7. F7 ： 定位到当前窗口
+8. Alt+F12 ： 跳到下一个编译错误
 
 #### 显示
 1. ctrl+P ： 显示函数的每个参数提示
@@ -24,6 +27,7 @@ description: Resharper常用快捷键
 6. Ctrl + M + O: 折叠所有方法
 7. Ctrl + M + M: 折叠或者展开当前方法
 8. Ctrl + M + L:  展开所有方法
+9. Alt + F6 ： 打开刚关的窗口(比如find results)
 
 
 #### 调试
