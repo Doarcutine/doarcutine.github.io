@@ -17,11 +17,13 @@ description: Resharper常用快捷键
 6. F8 ： 下一个错误
 7. F7 ： 定位到当前窗口
 8. Alt+F12 ： 跳到下一个编译错误
+9. ctrl+shift+F7 : 当前文件查找引用
+10. ctrl+shift+up/down ： 跳到上/下一个引用
 
 #### 显示
 1. ctrl+P ： 显示函数的每个参数提示
 2. ctrl+减号 ： 沿函数当前被调用顺序往回走
-3. Alt+F7 ： 上个逻辑上的调用函数（不一定是当前实际调用的上一个函数，比如测试调用当前函数）
+3. Alt+F7 ： 查找引用
 4. ctrl+alt+c ： 打开call stack
 5. alt+shift+L ： 解决方案定位文件
 6. Ctrl + M + O: 折叠所有方法
@@ -46,3 +48,4 @@ description: Resharper常用快捷键
 4. ctrl+shift+r ： 重构菜单
 5. alt+enter ： 去掉无用代码（例如没有用到的引用）
 6. ctrl+alt+M ： 重构所选区域代码（例如抽成一个函数）
+7. ctrl+alt+V ： 抽变量
