@@ -19,6 +19,7 @@ description: Resharper常用快捷键
 8. Alt+F12 ： 跳到下一个编译错误
 9. ctrl+shift+F7 : 当前文件查找引用
 10. ctrl+shift+up/down ： 跳到上/下一个引用
+11. alt + \ : 寻找类中的成员
 
 #### 显示
 1. ctrl+P ： 显示函数的每个参数提示
